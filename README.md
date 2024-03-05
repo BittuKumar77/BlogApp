@@ -5,7 +5,7 @@ for cloneing-
 2. activate virtual enviroment.
   venv\Scripts\activate 
 3. open gitbash in same folder . and paste this link -
-**git clone https://github.com/rudra273/blog.git**
+**git clone https://github.com/BittuKumar77/BlogApp.git**
 4. after cloning channge direcotry to blog by using this command --
 **cd blog**
 5. install requiremnets.txt by this commnad -
